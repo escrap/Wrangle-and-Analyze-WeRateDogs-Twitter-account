@@ -13,8 +13,15 @@ Additional gathering, then assessing and cleaning is required for "Wow!"-worthy 
 
 ### Files used
 In this project we are using several files:
-wrangle_act.ipynb
-twitter-archive-enhanced.csv
+
+- twitter-archive-enhanced.csv
+- act_report.pdf	
+- api_twitter.csv	
+- tweet_json.txt	
+- twitter-archive-enhanced.csv	
+- twitter_archive_master.csv	
+- wrangle_act.ipynb	ipynb 
+- wrangle_report.pdf
 
 ### Credits
 Helpful resources by working with data:
