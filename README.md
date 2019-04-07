@@ -44,6 +44,7 @@ Functions
 Looping
 
 - https://softwareengineering.stackexchange.com/questions/254475/how-do-i-move-away-from-the-for-loop-school-of-thought
+- https://stackoverflow.com/questions/28669482/appending-pandas-dataframes-generated-in-a-for-loop
 
 Python ( Control )
 
